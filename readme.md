@@ -2,7 +2,7 @@
 1st. Jan. 29 2024
 2nd. Jul.22 2024
 
-</h3>Naming conventions</h3>
+<h3>Naming conventions</h3>
 
 Directory:
 ProvinceOrMunicipality\CityOrDistrict\Town
